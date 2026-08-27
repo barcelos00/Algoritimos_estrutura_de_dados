@@ -22,3 +22,4 @@ print(direita)
 #se a lidata fosse PAR entraira certinho um numero par de um lado e outro do outro lado (2 valores de cada lado caso fosse 4 o indice da lista)
 
 
+
